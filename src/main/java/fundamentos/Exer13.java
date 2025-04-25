@@ -22,7 +22,7 @@ public class Exer13 {
         System.out.println("Qual seu sexo? M = Masculino, F = Feminino");
         String sexo = scan.next();
 
-        double pesoIdeal = (0);
+        double pesoIdeal;
 
         if (sexo.equalsIgnoreCase("M")) {
             pesoIdeal = (72.7 * altura) - 58;
