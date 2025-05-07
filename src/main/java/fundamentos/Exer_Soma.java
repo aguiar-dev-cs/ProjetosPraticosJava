@@ -3,7 +3,7 @@ package fundamentos;
 
 import java.util.Scanner;
 
-public class Exer03 {
+public class Exer_Soma {
 
     public static void main(String[] args){
 

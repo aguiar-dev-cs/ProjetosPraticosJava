@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 //Faça um Programa que converta metros para centímetros.
 
-public class Exer05 {
+public class Exer_ConverteMedida {
 
     public static void main(String[] args){
 

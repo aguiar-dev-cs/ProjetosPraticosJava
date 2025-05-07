@@ -3,7 +3,7 @@ package fundamentos;
 
 import java.util.Scanner;
 
-public class Exer02 {
+public class Exer_PedirMostrarNumero {
 
     public static void main(String[] args){
 

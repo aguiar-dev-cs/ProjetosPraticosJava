@@ -18,7 +18,7 @@ Obs.: Salário Bruto - Descontos = Salário Líquido.*/
 
 import java.util.Scanner;
 
-public class Exer14 {
+public class Exer_SalarioDescontos {
 
     public static void main(String[] args){
 

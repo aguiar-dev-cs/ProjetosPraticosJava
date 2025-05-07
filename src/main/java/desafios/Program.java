@@ -1,4 +1,4 @@
-package Desafios;
+package desafios;
 
 import java.util.Scanner;
 
@@ -14,6 +14,7 @@ public class Program {
     }
 
     public static String limiteVelocidade(int velocidade) {
+
         if (velocidade <= 60) {
             return "Nao foi multado";
         } else {

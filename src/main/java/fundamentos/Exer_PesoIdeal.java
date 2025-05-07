@@ -8,7 +8,7 @@ algoritmo que calcule seu peso ideal, usando a seguinte fórmula:
 
 import java.util.Scanner;
 
-public class Exer12 {
+public class Exer_PesoIdeal {
 
     public static void main(String[] args){
 

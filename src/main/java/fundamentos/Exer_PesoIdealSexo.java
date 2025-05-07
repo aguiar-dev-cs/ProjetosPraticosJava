@@ -10,7 +10,7 @@ abaixo do peso.*/
 
 import java.util.Scanner;
 
-public class Exer13 {
+public class Exer_PesoIdealSexo {
 
     public static void main(String[] args){
 

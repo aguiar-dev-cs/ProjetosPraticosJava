@@ -8,7 +8,7 @@ package fundamentos;
 
 import java.util.Scanner;
 
-public class Exer11 {
+public class Exer_InteiroReal {
 
     public static void main(String[] args){
 

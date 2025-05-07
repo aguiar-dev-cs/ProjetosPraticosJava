@@ -4,7 +4,7 @@ package fundamentos;
 
 import java.util.Scanner;
 
-public class exer16 {
+public class Exer_IfElseSwitchCase {
 
     public static void main(String[] arg){
 

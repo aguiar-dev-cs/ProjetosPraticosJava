@@ -1,6 +1,6 @@
 package fundamentos;
 
-public class OperadoresLogicos {
+public class Exer_OperadoresLogicos {
 
     public static void main(String[] args){
 

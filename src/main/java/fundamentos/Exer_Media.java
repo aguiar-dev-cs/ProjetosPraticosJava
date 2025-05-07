@@ -3,7 +3,7 @@ package fundamentos;
 
 import java.util.Scanner;
 
-public class Exer04 {
+public class Exer_Media {
 
     public static void main(String [] args){
 

@@ -5,7 +5,7 @@ package fundamentos;
 
 import java.util.Scanner;
 
-public class Exer10 {
+public class Exer_ConverterTemperatura2 {
 
     public static void main(String[] args){
 

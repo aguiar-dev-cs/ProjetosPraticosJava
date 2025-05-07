@@ -4,7 +4,7 @@ package fundamentos;
 
 import java.util.Scanner;
 
-public class Exer06 {
+public class Exer_CalcularArea {
 
     public static void main(String[] args){
 

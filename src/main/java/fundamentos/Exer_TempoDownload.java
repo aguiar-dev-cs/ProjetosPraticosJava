@@ -7,7 +7,7 @@ informe o tempo aproximado de download do arquivo usando este link
 
 import java.util.Scanner;
 
-public class Exer15 {
+public class Exer_TempoDownload {
 
     public static void main(String[] args){
 

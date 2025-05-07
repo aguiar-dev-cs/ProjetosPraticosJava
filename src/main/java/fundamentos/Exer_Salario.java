@@ -6,7 +6,7 @@ package fundamentos;
 
 import java.util.Scanner;
 
-public class Exer08 {
+public class Exer_Salario {
 
     public static void main(String[] args){
 

@@ -2,7 +2,7 @@ package fundamentos;
  //Faça um Programa que calcule a área de um quadrado, em seguida mostre o dobro desta área para o usuário.
 import java.util.Scanner;
 
-public class Exer07 {
+public class Exer_DobroArea {
 
     public static void main(String[] args){
 

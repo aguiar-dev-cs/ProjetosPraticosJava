@@ -1,6 +1,6 @@
 package fundamentos;
 
-public class OperadoresAritméticos {
+public class Exer_OperadoresAritmeticos {
 
     public static void main(String[] args){
 
