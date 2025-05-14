@@ -21,7 +21,7 @@ public class Exer_OrdemDecrescente {
         System.out.println("Digite um número:");
         int num3 = scan.nextInt();
 
-        int numeros[] = {num1, num2, num3};
+        int[] numeros = {num1, num2, num3};
         Arrays.sort(numeros);
 
         System.out.println("Os números em ordem decrescente são:");
