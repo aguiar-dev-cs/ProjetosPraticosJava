@@ -13,7 +13,7 @@ public class Exer_Calculadora {
             char operador;
             double resultado;
 
-            System.out.println("--- Calculadora Simples em Java ---");
+            System.out.println("---- Calculadora Simples em Java ----");
             System.out.print("Digite o primeiro número: ");
             num1 = scan.nextDouble();
 
