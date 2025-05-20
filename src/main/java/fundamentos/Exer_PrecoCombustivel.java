@@ -18,7 +18,7 @@ public class Exer_PrecoCombustivel {
         double precoAlc = 1.9;
         int percDesconto = 0;
         double total = 0;
-        double totalDesc = 0;
+        double totalDesc;
 
         if (tipo.equalsIgnoreCase("a")) {
             if (litros <= 20) {
